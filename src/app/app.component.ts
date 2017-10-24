@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  public editable: boolean = false;
+  public name: string = 'Passau';
+  public lat: number = 48.5768558;
+  public lng: number = 13.268283;
 }
