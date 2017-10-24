@@ -1,4 +1,15 @@
-# JohanApp
+# Passau Example App
+
+This is a standalone repository of the [Passau example](https://leaflet-ng2.yagajs.org/latest/examples/passau/) from the
+ [leaflet-ng2 module](https://leaflet-ng2.yagajs.org) of the [YAGA Development Team](https://yagajs.org).
+ 
+It's goal is to show how to create Apps with the [angular-cli](https://www.npmjs.com/package/@angular/cli) and our
+leaflet-ng2 module. Take a look at the commits, we commit everything granular, so you can use it as a step-by-step guide
+for starting with the development with Angular2 and leaflet-ng2.
+
+Have fun!
+
+## Further notes from angular-cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
